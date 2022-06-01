@@ -1,2 +1,2 @@
 # HelloWorld
-learning how to use GtiHub
+learning how to use GitHub
