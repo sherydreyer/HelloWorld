@@ -5,4 +5,5 @@ learning how to use GitHub
 programming
 ### favorite book
 Redeeming Love
-# addidng title to commit
+# career
+It developer
