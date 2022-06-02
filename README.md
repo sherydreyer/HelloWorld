@@ -3,7 +3,7 @@
 learning how to use GitHub
 ## hobbies
 programming
-### favorite book
+###favorite book
 Redeeming Love
-# career
+## career
 It developer
