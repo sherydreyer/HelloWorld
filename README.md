@@ -7,3 +7,5 @@ programming
 Redeeming Love
 ## career
 It developer
+## strengths
+problem solving
